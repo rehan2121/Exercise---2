@@ -1,0 +1,1 @@
+This code is often used when you need to perform actions or make decisions based on the current hour, such as determining whether it's morning, afternoon, or evening, as shown in the example project provided earlier.
